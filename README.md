@@ -55,11 +55,15 @@
 ## Запуск приложения:
 
 ### Frontend:
+```bash
 - cd client/EventSphere
 - npm i
 - npm start
+```
 
 ### Backend:
+```bash
 - cd server
 - npm i
 - npm run dev
+```
